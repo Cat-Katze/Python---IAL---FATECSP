@@ -1,2 +1,2 @@
-# Python---IAL---FATECSP
+# Python-IAL
 Códigos desenvolvidos em py
